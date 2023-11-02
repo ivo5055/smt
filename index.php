@@ -6,12 +6,11 @@
     <body>
         Здравей :)
     </body>
-</html>
-
-<?php
+    <?php
 
 $target = "contacts.php";
 $linkname = "mylink";
 link($target, $linkname);
-
 ?>
+</html>
+
