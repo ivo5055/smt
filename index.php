@@ -5,13 +5,14 @@
     </head>
     <body>
         Здравей :)
-    </body>
+    
 
 <?php
-$target = "contacts.php";
+/*$target = "contacts.php";
 $linkname = "mylink";
-link($target, $linkname);
+link($target, $linkname);*/
+echo '<a href="contacts.php</a>';
 ?>
-
+    </body>
 </html>
 
